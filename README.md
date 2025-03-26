@@ -3,6 +3,16 @@
 # fire-atlas-app
 UEA impact study app (dev)
 
+## Deployment
+
+The app using IPCC AR6 land regions, with fire data updated to Feb 2024, is deployed here:
+
+[https://climaticresearchunit.github.io/global-fire-dashboard/global-fire-dashboard-yearly.html](https://climaticresearchunit.github.io/global-fire-dashboard/global-fire-dashboard-yearly.html)
+
+The app using national (country) averages, with fire data updated to June 2023, is deployed here:
+
+[https://climaticresearchunit.github.io/global-fire-dashboard/countries-fire-dashboard-yearly.html](https://climaticresearchunit.github.io/global-fire-dashboard/countries-fire-dashboard-yearly.html)
+
 ## Contents
 
 * `global-fire-dashboard-yearly.html` - HTML script to generate an interactive IPCC AR6 land region world map with radio button timescales that link to a page that displays associated variables (yearly: JAN-DEC)
